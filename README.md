@@ -1,1 +1,1 @@
-solidity code for cotract deployment - imported from mztacat.
+solidity code for contract deployment - imported from mztacat.
