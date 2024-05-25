@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract MztacatCommunity {
+contract MayaCommunity {
     string public name = "C8C2Community";
     string public symbol = "MAY";
     uint8 public decimals = 18;
