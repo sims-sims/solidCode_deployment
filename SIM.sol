@@ -3,8 +3,8 @@
 pragma solidity ^0.8.0;
 
 contract MayaCommunity {
-    string public name = "C8C2Community";
-    string public symbol = "MAY";
+    string public name = "SimSimCommunity";
+    string public symbol = "SIM";
     uint8 public decimals = 18;
     uint256 public totalSupply = 1000000 * (10 ** uint256(decimals));
     address public owner;
